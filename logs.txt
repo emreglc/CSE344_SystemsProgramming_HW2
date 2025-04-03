@@ -1,0 +1,19 @@
+[Thu Apr  3 14:46:57 2025] [PID:1856] Program started
+[Thu Apr  3 14:46:57 2025] [PID:1856] FIFOs created successfully
+[Thu Apr  3 14:46:57 2025] [PID:1857] Child process 1 started
+[Thu Apr  3 14:46:57 2025] [PID:1858] Child process 2 started
+[Thu Apr  3 14:46:57 2025] [PID:1856] Parent: Wrote numbers 10 and 20 to FIFO1
+[Thu Apr  3 14:46:57 2025] [PID:1857] Child Process 1: Read numbers 10 and 20
+[Thu Apr  3 14:46:57 2025] [PID:1859] Starting daemonization process
+[Thu Apr  3 14:46:57 2025] [PID:1857] Child Process 1: Wrote larger number 20 to FIFO2
+[Thu Apr  3 14:46:57 2025] [PID:1856] Parent: Proceeding...
+[Thu Apr  3 14:46:57 2025] [PID:1858] Child Processs 2: Larger number is: 20
+[Thu Apr  3 14:46:59 2025] [PID:1856] Parent: Proceeding...
+[Thu Apr  3 14:47:01 2025] [PID:1856] Parent: Proceeding...
+[Thu Apr  3 14:47:03 2025] [PID:1856] Parent: Proceeding...
+[Thu Apr  3 14:47:05 2025] [PID:1856] Parent: Proceeding...
+[Thu Apr  3 14:47:07 2025] [PID:1857] Child Process 1: Exiting normally
+[Thu Apr  3 14:47:07 2025] [PID:1858] Child Processs 2: Exiting normally
+[Thu Apr  3 14:47:07 2025] [PID:1856] Child process 1857 exited normally with status 0
+[Thu Apr  3 14:47:07 2025] [PID:1856] Child process 1858 exited normally with status 0
+[Thu Apr  3 14:47:07 2025] [PID:1856] Parent: Cleaning up and exiting
